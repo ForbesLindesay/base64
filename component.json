@@ -1,0 +1,16 @@
+{
+  "name": "base64",
+  "repo": "ForbesLindesay/base64",
+  "description": "base64 encode/decode in JavaScript",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "base64-encode": "*",
+    "base64-decode": "*"
+  },
+  "development": {},
+  "scripts": [
+    "index.js"
+  ],
+  "twitter": "@ForbesLindesay"
+}
