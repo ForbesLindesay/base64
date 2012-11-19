@@ -2,7 +2,7 @@
   "name": "base64",
   "repo": "ForbesLindesay/base64",
   "description": "base64 encode/decode in JavaScript",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": [],
   "dependencies": {
     "base64-encode": "*",
