@@ -1,3 +1,4 @@
+[![Build Status](https://secure.travis-ci.org/ForbesLindesay/base64.png?branch=master)](https://travis-ci.org/ForbesLindesay/base64)
 
 # base64
 
