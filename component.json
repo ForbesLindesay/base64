@@ -5,8 +5,8 @@
   "version": "1.0.0",
   "keywords": [],
   "dependencies": {
-    "base64-encode": "*",
-    "base64-decode": "*"
+    "ForbesLindesay/base64-encode": "*",
+    "ForbesLindesay/base64-decode": "*"
   },
   "development": {},
   "scripts": [
