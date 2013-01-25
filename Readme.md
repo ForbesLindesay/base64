@@ -1,5 +1,5 @@
 [![Build Status](https://secure.travis-ci.org/ForbesLindesay/base64.png?branch=master)](https://travis-ci.org/ForbesLindesay/base64)
-
+<a href="https://jepso-ci.com/ForbesLindesay/base64"><img src="https://jepso-ci.com/ForbesLindesay/base64.svg" alt="jepso-ci" style="max-width:100%;" align="right"></a>
 # base64
 
   base64 encode/decode in JavaScript
