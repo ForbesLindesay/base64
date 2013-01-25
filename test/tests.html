@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head></head>
+  <body>
+    <ul id="result"></ul>
+    <script src="../build/build.js"></script>
+    <script>
+    window.testsPassed = null;
+    var base64 = require('base64');
+    function equal(a, b) {
+      if (a===b) {
+        document.getElementById('result').innerHTML += '<li>PASS: "' + a + '" == "' + b + '"</li>';
+      } else {
+        document.getElementById('result').innerHTML += '<li>FAIL: "' + a + '" == "' + b + '"</li>';
+        window.testsPassed = false;
+      }
+    }
+    equal(base64.encode('Hello World'), 'SGVsbG8gV29ybGQ=')
+    equal(base64.decode('SGVsbG8gV29ybGQ='), 'Hello World')
+    window.testsPassed = window.testsPassed === null;
+    </script>
+  </body>
+</html>

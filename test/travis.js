@@ -1,5 +1,8 @@
-var client = require('./build/build.js');
-var server = require('./');
+var client = require('vm').runInNewContext(
+  require('fs').readFileSync(
+    require('path').join(__dirname, '..', 'build', 'build.js')) + '\nrequire("base64")'
+  , {}, require('path').join(__dirname, '..', 'build', 'build.js'));
+var server = require('../');
 var assert = require('better-assert');
 
 it('decode to the same data on client and server', function () {
