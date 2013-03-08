@@ -1,3 +1,4 @@
 {
-  "url": "/test/tests.html"
+  "url": "/test/tests.html",
+  "proxy": { "component": true }
 }
