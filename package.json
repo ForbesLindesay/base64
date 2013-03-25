@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "base64 encode/decode in JavaScript",
   "main": "./server.js",
+  "browser": "./index.js",
   "scripts": {
     "test": "component-install && component-build && mocha test/travis.js -R spec"
   },
