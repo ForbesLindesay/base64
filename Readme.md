@@ -1,5 +1,5 @@
 [![Build Status](https://secure.travis-ci.org/ForbesLindesay/base64.png?branch=master)](https://travis-ci.org/ForbesLindesay/base64)
-[![Dependency Status](https://david-dm.org/ForbesLindesay/base64.png)](https://david-dm.org/ForbesLindesay/base64)
+[![Dependency Status](https://img.shields.io/david/ForbesLindesay/base64.svg)](https://david-dm.org/ForbesLindesay/base64)
 <a href="https://jepso-ci.com/ForbesLindesay/base64"><img src="https://jepso-ci.com/ForbesLindesay/base64.svg" alt="jepso-ci" style="max-width:100%;" align="right"></a>
 # base64
 
