@@ -21,6 +21,6 @@
   "private": true,
   "dependencies": {
     "base64-decode": "~1.0.2",
-    "base64-encode": "~1.0.1"
+    "base64-encode": "~2.0.1"
   }
 }
