@@ -3,6 +3,8 @@
 <a href="https://jepso-ci.com/ForbesLindesay/base64"><img src="https://jepso-ci.com/ForbesLindesay/base64.svg" alt="jepso-ci" style="max-width:100%;" align="right"></a>
 # base64
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/base64.svg)](https://greenkeeper.io/)
+
   base64 encode/decode in JavaScript
 
 ## Installation
